@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:55:52.377981
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0059_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　用易詳解　　　　　　易類¶
@@ -49,6 +51,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1a0059_WYG_000-3b>¶
 　　　　　　　　　總　校　官　(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 自序
 <pb:KR1a0059_WYG_000-4a>¶
 自序¶
 經學不可以史證經學必以史證此吾為書之病也亦¶
@@ -76,4 +79,3 @@
 子之言而以用易名編嗚呼學易非難而用易為難吾¶
 其敢自謂能爾乎嘉泰癸亥六月望日謙齋居士李杞¶
 子才序¶
-

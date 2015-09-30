@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:55:52.419350
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二 
 <pb:KR1a0059_WYG_002-1a>¶
 欽定四庫全書¶
 　用易詳解卷二　　　　　　宋　李把　撰¶
@@ -476,4 +478,3 @@
 　退功臣進文吏列侯奉朝請而君臣相安了无猜忌¶
 　之隙韓彭英盧固非忠順自全之道然使髙祖有以¶
 　處之亦何至若是之極也哉¶
-

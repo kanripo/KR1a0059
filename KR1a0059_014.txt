@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 21:55:52.644706
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0059_WYG_014-1a>¶
 欽定四庫全書¶
 　用易詳解卷十五　　　　　宋　李把　撰¶
@@ -528,4 +530,3 @@
 　不能自立如巽之九二上九巽在牀下非辭之屈乎¶
 　自卦爻之辭觀之則人之辭亦可知矣¶
 　　此章因論乾坤易簡之徳而泛及爻彖卦辭之意¶
-

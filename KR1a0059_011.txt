@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:55:52.589070
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二 
 <pb:KR1a0059_WYG_011-1a>¶
 欽定四庫全書¶
 　用易詳解卷十二　　　　　宋　李把　撰¶
@@ -461,4 +463,3 @@
 　全於亂世也然而沉湎之極而至于濡首而不知節¶
 　以此自信則失之矣昔人謂為名教之罪人豈非以¶
 　其太過也哉¶
-

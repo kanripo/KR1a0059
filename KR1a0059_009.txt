@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:55:52.548025
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九 
 <pb:KR1a0059_WYG_009-1a>¶
 欽定四庫全書¶
 　用易詳解卷九　　　　　宋　李把　撰¶
@@ -1021,4 +1023,3 @@
 　何篡焉然則漸而進于雲逵之上又安得有人道之¶
 <pb:KR1a0059_WYG_009-57b>¶
 　患哉¶
-

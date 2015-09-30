@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:55:52.530612
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1a0059_WYG_008-1a>¶
 欽定四庫全書¶
 　用易詳觧卷八　　　　　　宋　李杞　撰¶
@@ -416,4 +418,3 @@
 　之益則立心為勿恒矣在我者既失其常能无凶乎¶
 　六二或益之自外來而上九或撃之亦自外來非意¶
 　所及也或益或撃皆其自取也¶
-

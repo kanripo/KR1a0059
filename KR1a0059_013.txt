@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 用易詳解
-#+DATE: 2015-09-23 09:34:43
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 21:55:52.622508
+#+PROPERTY: ID KR1a0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1a0059_WYG_013-1a>¶
 欽定四庫全書¶
 　用易詳解卷十四　　　　　宋　李把　撰¶
@@ -337,4 +339,3 @@
 　極其至神之妙乎¶
 <pb:KR1a0059_WYG_013-19b>¶
 　　此章論精粗一致顯㣲一理惟聖人為能體之¶
-
